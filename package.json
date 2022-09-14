@@ -1,5 +1,5 @@
 {
-  "name": "ammo.js",
+  "name": "ammo-electron-build",
   "version": "1.0.0",
   "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
   "main": "ammo.wasm.js",
